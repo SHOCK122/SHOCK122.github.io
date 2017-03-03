@@ -2213,6 +2213,10 @@
 				width: 100%;
 			}
 
+      img.profile {
+    width: 256px;
+}
+
 /* List */
 
 	ol {
