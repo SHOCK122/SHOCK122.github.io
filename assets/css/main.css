@@ -3713,8 +3713,9 @@
 
 .service {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-bottom: 72px;
+    flex-wrap: wrap;
 }
 
 i {
