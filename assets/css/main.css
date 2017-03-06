@@ -3714,8 +3714,11 @@
 .service {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 72px;
     flex-wrap: wrap;
+}
+
+.dev-icons {
+    padding-bottom: 24px;
 }
 
 i {
