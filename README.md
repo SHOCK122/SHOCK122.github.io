@@ -16,4 +16,4 @@ While you're here, though, you should know that I am a New York City based Web D
 - RSpec
 - SQL
 
-... and a few others. The list is ever-growing! Take a look at the live website for a few examples of what I worked on and other methods of contact!
+...and a few others. The list is ever-growing! Take a look at the live website for a few examples of what I worked on and other methods of contact!
