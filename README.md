@@ -1,6 +1,6 @@
 # Hello!
 
-And welcome to my portfolio site repo! You can see it in action [here](http://shahriar.nyc).
+And welcome to my portfolio site repo! You can see it in action [here](http://SHOCK.nyc).
 
 While you're here, though, you should know that I am a New York City based Web Developer who has worked with many technologies including:
 
